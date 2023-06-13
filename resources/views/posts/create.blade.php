@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Blog</title>
     </head>
-    <body>
+    <body class="antialiased">
         <h1>Blog Name</h1>
         <form action="/posts" method="POST">
             @csrf
